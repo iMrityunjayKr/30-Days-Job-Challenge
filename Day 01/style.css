@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border: 2px red dotted;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+.item {
+  background-color: blueviolet;
+  height: 50px;
+  width: 50px;
+  /* border: 2px solid black ; */
+  margin: 1px;
+}

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NavBar+HeroSection</title>
+    <link rel="stylesheet" href="navBar_hero_section.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <div class="navbar">
+      <div class="logo">
+        <img
+          src="https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?semt=ais_hybrid&w=740&q=80"
+          alt=""
+          class="logo-img"
+        />
+      </div>
+      <div class="menu-items" id="menu">
+        <div class="menu-item home">Home</div>
+        <div class="menu-item About">About</div>
+        <div class="menu-item Project">Projects</div>
+        <div class="menu-item Contact">Contact</div>
+      </div>
+       <!-- Hamburger -->
+  <div class="hamburger" id="hamburger">
+    ☰
+  </div>
+        </button>
+      </div>
+    </div>
+    <!-- Hero Section -->
+    <h1 class="hobby">I live through photography</h1>
+    <div class="hero">
+      <div class="work">
+        <img
+          src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          alt=""
+        />
+      </div>
+      <div class="text">
+        <p class="text-info">
+          commodi inventore nemo cum, quam odit ullam dolores eius sed veniam
+          cumque quia mollitia architecto rem deserunt iste modi ex incidunt
+          animi velit eos eveniet. Nemo, voluptate molestias.
+        </p>
+        <button class="cta">View Work</button>
+      </div>
+    </div>
+    <!-- Feature Section -->
+    <div style="margin-top: 40px" class="featureContainer">
+      <div class="title">
+        <p class="service">Services</p>
+        <div class="tagline">
+          <h2>We Capture moments...</h2>
+          <h5>that becomes your <span class="mem">memories</span></h5>
+        </div>
+      </div>
+
+      <div class="services-container">
+        <div class="service-card">
+          <img
+            src="https://plus.unsplash.com/premium_photo-1682092632793-c7d75b23718e?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwd2VkZGluZyUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fHww"
+            alt=""
+          />
+          <h3>Marriage Photography</h3>
+        </div>
+
+        <div class="service-card">
+          <img
+            src="https://assets-etrvls.enchantingtravels.com/uploads/2023/09/travel-photography-1024x683.png"
+            alt=""
+          />
+          <h3>Travel Photography</h3>
+        </div>
+
+        <div class="service-card">
+          <img
+            src="https://digiartphotography.com/wp-content/uploads/first-birthday-shoot-baby-girl-digiart-photoraphy-hyderabad-gachibowli-hit-scaled.jpg"
+            alt=""
+          />
+          <h3>Birthday Photography</h3>
+        </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    <div class="footer-wrapper">
+      <div style="margin-top: 40px" class="footer">
+        <div class="footerdetails">
+          <h3>About</h3>
+          <p>Services</p>
+          <p>Portfolio</p>
+        </div>
+        <div class="footerdetails">
+          <h3>Contact</h3>
+          <p>Ph - 9934099340</p>
+        </div>
+      </div>
+    </div>
+    <!-- copyright -->
+    <div class="copyright">
+      <footer>
+        <p class="copyright-text">&copy; 2026 PhotoMe. All Rights Reserved.</p>
+      </footer>
+    </div>
+    <script>
+  const hamburger = document.getElementById("hamburger");
+  const menu = document.getElementById("menu");
+
+  hamburger.addEventListener("click", () => {
+    menu.classList.toggle("active");
+  });
+</script>
+  </body>
+</html>
