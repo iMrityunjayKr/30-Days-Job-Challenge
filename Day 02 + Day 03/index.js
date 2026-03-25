@@ -36,7 +36,7 @@ searchBtn.addEventListener("click", () => {
     resutBox.appendChild(loadingWeather);
 
     fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=${cityValue}&appid=6fe1e95fb37ca61222b7bd6f2ed7c421`,
+      `https://api.openweathermap.org/data/2.5/weather?q=${cityValue}&appid=`,
     )
       .then((response) => response.json())
       .then((data) => {
