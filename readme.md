@@ -1,86 +1,94 @@
 # 🚀 30 Days Job-Ready Challenge (Frontend)
 
 This repository documents my **30-day journey** to becoming job-ready as a frontend developer.  
-Each day focuses on building real-world UI components, improving problem-solving skills, and strengthening core concepts.
+The focus is on **building real-world projects**, strengthening fundamentals, and improving consistency.
 
 ---
 
 ## 🎯 Goal
 
-- Build consistency in coding daily  
-- Master **HTML, CSS, JavaScript fundamentals**  
-- Create **real-world UI components**  
+- Build a strong habit of **daily coding**
+- Master **HTML, CSS, and JavaScript**
+- Develop **real-world UI components**
 - Become **job-ready in 30 days**
 
 ---
 
 ## 📅 Daily Progress
 
-| Day | Topic | Status |
-|-----|------|--------|
-| Day 01 | Navbar (Responsive + Hamburger) | ✅ Completed |
-| Day 02 | Hero Section | ✅ Completed |
-| Day 03 | Services Section (Grid Layout) | ✅ Completed |
-| Day 04 | Footer Design | ✅ Completed |
-| Day 05 | Responsive Design | ⏳ In Progress |
+| Day | Work Done | Status |
+|-----|----------|--------|
+| Day 01 | Built Navbar (Responsive + Hamburger), Hero Section, Services Section (Grid), Footer | ✅ Completed |
+| Day 02 | Designed Weather App UI + Integrated API | ✅ Completed |
+| Day 03 | Completed Weather App with full functionality + handled edge cases | ✅ Completed |
+| Day 04 | Rebuilt Weather App from scratch (without any help) | ✅ Completed |
+| Day 05 | Working on next project | ⏳ In Progress |
 | ... | ... | ... |
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3 (Flexbox, Grid, Responsive Design)  
-- JavaScript (DOM Manipulation)  
-- Git & GitHub  
+- **HTML5**
+- **CSS3** (Flexbox, Grid, Responsive Design)
+- **JavaScript** (DOM Manipulation)
+- **API Integration**
+- **Git & GitHub**
 
 ---
 
-## 📸 Features Built So Far
+## 💡 Projects & Features
 
+### 🔹 UI Components
 - ✅ Responsive Navbar with Hamburger Menu  
-- ✅ Hero Section with CTA  
-- ✅ Services Section using Grid  
-- ✅ Footer with Clean Layout  
+- ✅ Hero Section with Call-To-Action  
+- ✅ Services Section using Grid Layout  
+- ✅ Clean Footer Design  
 - ✅ Sticky Navbar  
+
+### 🔹 Application
+- ✅ Fully Functional Weather App  
+- ✅ API Integration  
+- ✅ Error Handling (invalid city, network issues, etc.)  
+- ✅ Clean and structured UI  
 
 ---
 
 ## 📈 Learning Outcomes
 
-- Improved understanding of **layout systems (Flexbox & Grid)**  
-- Learned **responsive design principles**  
-- Built UI components from scratch without tutorials  
-- Practiced **clean code and structure**
+- Strong understanding of **Flexbox & Grid**
+- Practical experience in **responsive design**
+- Improved skills in **DOM manipulation**
+- Learned **API handling & edge case management**
+- Built confidence in **building projects from scratch**
 
 ---
 
 ## 🔥 Challenge Rules
 
-- Code **every day** for 30 days  
-- Focus on **building, not just watching tutorials**  
-- Push code to GitHub daily  
-- Improve previous work continuously  
+- Code **every single day for 30 days**
+- Focus on **building, not just watching tutorials**
+- Push progress to **GitHub daily**
+- Continuously **improve previous projects**
 
 ---
 
-<!-- ## 🌐 Live Preview (GitHub Pages)
+## 🌐 Live Preview
 
-👉 Add your deployed link here  
-Example: https://iMrityunjayKr.github.io/your-repo/ -->
+> (Will be added soon)
 
 ---
 
 ## 🤝 Connect with Me
 
-- GitHub: https://github.com/iMrityunjayKr  
-- LinkedIn: https://www.linkedin.com/in/imrityunjaykr  
+- 🔗 GitHub: https://github.com/iMrityunjayKr  
+- 🔗 LinkedIn: https://www.linkedin.com/in/imrityunjaykr  
 
 ---
 
 ## ⭐ Motivation
 
-> “Consistency beats intensity. Small progress every day leads to big results.”
+> **"Consistency beats intensity. Small progress every day leads to big results."**
 
 ---
 
