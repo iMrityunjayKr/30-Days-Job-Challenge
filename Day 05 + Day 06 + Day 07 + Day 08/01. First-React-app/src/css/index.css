@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+ background-color: #333;
+  color: rgb(79, 232, 79);
+  text-align: center;
+}
+
