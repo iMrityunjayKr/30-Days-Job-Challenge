@@ -22,7 +22,14 @@ The focus is on **building real-world projects**, strengthening fundamentals, an
 | Day 02 | Designed Weather App UI + Integrated API | ✅ Completed |
 | Day 03 | Completed Weather App with full functionality + handled edge cases | ✅ Completed |
 | Day 04 | Rebuilt Weather App from scratch (without any help) | ✅ Completed |
-| Day 05 | Working on next project | ⏳ In Progress |
+| Day 05 | React Theory + Implementation | ✅ Completed |
+| Day 06 | React Theory + Implementation | ✅ Completed |
+| Day 07 | React Theory + Implementation | ✅ Completed |
+| Day 08 | React Theory + Implementation | ✅ Completed |
+| Day 09 | React Projects + Backend | ⏳ In Progress |
+| Day 09 | Working on next project | ⏳ In Progress |
+| Day 09 | Working on next project | ⏳ In Progress |
+| Day 09 | Working on next project | ⏳ In Progress |
 | ... | ... | ... |
 
 ---
