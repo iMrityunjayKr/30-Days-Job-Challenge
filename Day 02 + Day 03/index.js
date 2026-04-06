@@ -40,10 +40,10 @@ searchBtn.addEventListener("click", () => {
     )
       .then((response) => response.json())
       .then((data) => {
-          if (loadingWeather.parentNode) resutBox.removeChild(loadingWeather);
+        if (loadingWeather.parentNode) resutBox.removeChild(loadingWeather);
 
-        if (data.cod === "404") {
-          errorMessage.innerText = "Enter a valid city";
+        if (data.cod !== 200) {
+          errorMessage.innerText = `${data.message}`;
           resutBox.appendChild(errorMessage);
         } else {
           cityName.innerText = ` City - ${data["name"]}`;
