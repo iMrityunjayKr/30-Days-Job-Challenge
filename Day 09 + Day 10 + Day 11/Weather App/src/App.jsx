@@ -24,12 +24,12 @@ function App() {
         if (data.cod !== 200) {
           setError(data.message);
           setLoadingWeather(false);
-          setWeatherDetails("");
+          setWeatherDetails(null);
         } else {
           console.log(data.cod);
           console.log(typeof data.cod);
           console.log(data.message);
-          setError("");
+          setError(null);
           setLoadingWeather(false);
           setWeatherDetails(data);
         }
