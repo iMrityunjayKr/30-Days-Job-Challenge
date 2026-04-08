@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: "Times New Roman", Times, serif;
+ background-color: #222222;  /* darker page */
+  color: #888;
+}

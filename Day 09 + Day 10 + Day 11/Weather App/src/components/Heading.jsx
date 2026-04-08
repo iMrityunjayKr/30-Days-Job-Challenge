@@ -1,7 +1,8 @@
+import "./heading.css";
 function Heading() {
   return (
     <>
-      <h1>Weather App</h1>
+      <h1 className="heading">Weather App</h1>
     </>
   );
 }

@@ -1,0 +1,16 @@
+.resultBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.resultBox p {
+  align-content: center;
+  margin: 10px;
+}
+
+.error {
+  color: red;
+  font-size: 15px;
+}
